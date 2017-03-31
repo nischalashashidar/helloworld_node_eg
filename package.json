@@ -1,0 +1,18 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+        "mocha": "^2.4.5",
+        "should": "*",
+        "supertest": "^1.2.0",
+        "expect": "*",
+        "chai": "^3.5.0"
+    },
+  "author": "",
+  "license": "ISC"
+}
